@@ -1,2 +1,2 @@
 # Productive
-This makes people producktive. 
+This makes people productive. 
